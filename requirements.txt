@@ -1,0 +1,6 @@
+requests>=2.31
+rank-bm25>=0.2.2
+numpy>=1.26
+openai>=1.40
+streamlit>=1.38
+pytest>=8.0
