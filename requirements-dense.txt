@@ -1,0 +1,2 @@
+# optional, for dense and hybrid retrieval
+sentence-transformers>=3.0
